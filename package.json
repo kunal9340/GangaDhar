@@ -1,0 +1,8 @@
+{
+  "name": "lcepl-webscada-mqtt",
+  "version": "1.0.0",
+  "description": "LCEPL graphical local WebSCADA with MQTT data ingestion and persistent history",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "mqtt": "^5.10.4", "socket.io": "^4.8.1"}
+}

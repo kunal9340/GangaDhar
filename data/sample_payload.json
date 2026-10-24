@@ -1,0 +1,1101 @@
+{
+  "timestamp": "2026-10-24T12:50:41",
+  "timezone": "Asia/Kolkata",
+  "data": [
+    {
+      "name": "Sump Level Value",
+      "value": 5,
+      "unit": "m"
+    },
+    {
+      "name": "Pressure Transmitter-01",
+      "value": 6,
+      "unit": "bar"
+    },
+    {
+      "name": "Pressure Transmitter-02",
+      "value": 6,
+      "unit": "bar"
+    },
+    {
+      "name": "Pressure Transmitter-03",
+      "value": 0,
+      "unit": "bar"
+    },
+    {
+      "name": "Pressure Transmitter-04",
+      "value": 6,
+      "unit": "bar"
+    },
+    {
+      "name": "Header Pressure Transmitter",
+      "value": 4,
+      "unit": "bar"
+    },
+    {
+      "name": "Flow Transmitter",
+      "value": 4572,
+      "unit": "L/s"
+    },
+    {
+      "name": "Pump 1 DE Vibration X-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 DE Vibration Y-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 NDE Vibration X-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 NDE Vibration Y-Axis",
+      "value": 3,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 Thrust Vibration X-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 Thrust Vibration Y-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 1 R1 Phase Temperature",
+      "value": 81,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 R2 Phase Temperature",
+      "value": 84,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 Y1 Phase Temperature",
+      "value": 78,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 Y2 Phase Temperature",
+      "value": 79,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 B1 Phase Temperature",
+      "value": 79,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 B2 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 Drive Temperature",
+      "value": 52,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 Non-Drive Temperature",
+      "value": 66,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 Thrust Temperature",
+      "value": 50,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 1 RY Phase Voltage",
+      "value": 6541,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 1 YB Phase Voltage",
+      "value": 6543,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 1 BR Phase Voltage",
+      "value": 6487,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 1 R Phase Current",
+      "value": 137,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 1 Y Phase Current",
+      "value": 136,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 1 B Phase Current",
+      "value": 130,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 1 Power Factor",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "Pump 1 Active Power",
+      "value": 1311,
+      "unit": "kW"
+    },
+    {
+      "name": "Pump 1 Reactive Power",
+      "value": 760,
+      "unit": ""
+    },
+    {
+      "name": "Pump 1 Apparent Power",
+      "value": 1516,
+      "unit": ""
+    },
+    {
+      "name": "Pump 1 Total Energy",
+      "value": 2622,
+      "unit": "kWh"
+    },
+    {
+      "name": "Pump 1 MBFV Position",
+      "value": 30,
+      "unit": "%"
+    },
+    {
+      "name": "Pump 2 DE Vibration X-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 DE Vibration Y-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 NDE Vibration X-Axis",
+      "value": 3,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 NDE Vibration Y-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 Thrust Vibration X-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 Thrust Vibration Y-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 2 R1 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 R2 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 Y1 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 Y2 Phase Temperature",
+      "value": 77,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 B1 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 B2 Phase Temperature",
+      "value": 81,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 Drive Temperature",
+      "value": 66,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 Non-Drive Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 Thrust Temperature",
+      "value": 53,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 2 RY Phase Voltage",
+      "value": 6544,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 2 YB Phase Voltage",
+      "value": 6542,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 2 BR Phase Voltage",
+      "value": 6490,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 2 R Phase Current",
+      "value": 134,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 2 Y Phase Current",
+      "value": 136,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 2 B Phase Current",
+      "value": 129,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 2 Power Factor",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "Pump 2 Active Power",
+      "value": 1311,
+      "unit": "kW"
+    },
+    {
+      "name": "Pump 2 Reactive Power",
+      "value": 757,
+      "unit": ""
+    },
+    {
+      "name": "Pump 2 Apparent Power",
+      "value": 1499,
+      "unit": ""
+    },
+    {
+      "name": "Pump 2 Total Energy",
+      "value": 2600,
+      "unit": "kWh"
+    },
+    {
+      "name": "Pump 2 MBFV Position",
+      "value": 24,
+      "unit": "%"
+    },
+    {
+      "name": "Pump 3 DE Vibration X-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 DE Vibration Y-Axis",
+      "value": 4,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 NDE Vibration X-Axis",
+      "value": 65535,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 NDE Vibration Y-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 Thrust Vibration X-Axis",
+      "value": 0,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 Thrust Vibration Y-Axis",
+      "value": 4,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 3 R1 Phase Temperature",
+      "value": 38,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 R2 Phase Temperature",
+      "value": 38,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 Y1 Phase Temperature",
+      "value": 40,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 Y2 Phase Temperature",
+      "value": 40,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 B1 Phase Temperature",
+      "value": 38,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 B2 Phase Temperature",
+      "value": 38,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 Drive Temperature",
+      "value": 38,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 Non-Drive Temperature",
+      "value": 37,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 Thrust Temperature",
+      "value": 34,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 3 RY Phase Voltage",
+      "value": 6540,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 3 YB Phase Voltage",
+      "value": 6540,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 3 BR Phase Voltage",
+      "value": 6464,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 3 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 3 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 3 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 3 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Pump 3 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "Pump 3 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Pump 3 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Pump 3 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "Pump 3 MBFV Position",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "name": "Pump 4 DE Vibration X-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 DE Vibration Y-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 NDE Vibration X-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 NDE Vibration Y-Axis",
+      "value": 6,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 Thrust Vibration X-Axis",
+      "value": 1,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 Thrust Vibration Y-Axis",
+      "value": 65530,
+      "unit": "mm/s"
+    },
+    {
+      "name": "Pump 4 R1 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 R2 Phase Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 Y1 Phase Temperature",
+      "value": 77,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 Y2 Phase Temperature",
+      "value": 76,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 B1 Phase Temperature",
+      "value": 78,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 B2 Phase Temperature",
+      "value": 79,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 Drive Temperature",
+      "value": 80,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 Non-Drive Temperature",
+      "value": 66,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 Thrust Temperature",
+      "value": 52,
+      "unit": "°C"
+    },
+    {
+      "name": "Pump 4 RY Phase Voltage",
+      "value": 6543,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 4 YB Phase Voltage",
+      "value": 6543,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 4 BR Phase Voltage",
+      "value": 6479,
+      "unit": "V"
+    },
+    {
+      "name": "Pump 4 R Phase Current",
+      "value": 137,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 4 Y Phase Current",
+      "value": 136,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 4 B Phase Current",
+      "value": 129,
+      "unit": "A"
+    },
+    {
+      "name": "Pump 4 Power Factor",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "Pump 4 Active Power",
+      "value": 1307,
+      "unit": "kW"
+    },
+    {
+      "name": "Pump 4 Reactive Power",
+      "value": 759,
+      "unit": ""
+    },
+    {
+      "name": "Pump 4 Apparent Power",
+      "value": 1507,
+      "unit": ""
+    },
+    {
+      "name": "Pump 4 Total Energy",
+      "value": 2613,
+      "unit": "kWh"
+    },
+    {
+      "name": "Pump 4 MBFV Position",
+      "value": 25,
+      "unit": "%"
+    },
+    {
+      "name": "33kVA Incomer RY Phase Voltage",
+      "value": 32458,
+      "unit": "V"
+    },
+    {
+      "name": "33kVA Incomer YB Phase Voltage",
+      "value": 32064,
+      "unit": "V"
+    },
+    {
+      "name": "33kVA Incomer BR Phase Voltage",
+      "value": 31990,
+      "unit": "V"
+    },
+    {
+      "name": "33kVA Incomer R Phase Current",
+      "value": 26,
+      "unit": "A"
+    },
+    {
+      "name": "33kVA Incomer Y Phase Current",
+      "value": 24,
+      "unit": "A"
+    },
+    {
+      "name": "33kVA Incomer B Phase Current",
+      "value": 24,
+      "unit": "A"
+    },
+    {
+      "name": "33kVA Incomer Power Factor",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "33kVA Incomer Active Power",
+      "value": 32448,
+      "unit": "kW"
+    },
+    {
+      "name": "33kVA Incomer Reactive Power",
+      "value": 32726,
+      "unit": ""
+    },
+    {
+      "name": "33kVA Incomer Apparent Power",
+      "value": 40960,
+      "unit": ""
+    },
+    {
+      "name": "33kVA Incomer Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "PWR 01 RY Phase Voltage",
+      "value": 32450,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 01 YB Phase Voltage",
+      "value": 32059,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 01 BR Phase Voltage",
+      "value": 31928,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 01 R Phase Current",
+      "value": 26,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 01 Y Phase Current",
+      "value": 24,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 01 B Phase Current",
+      "value": 23,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 01 Power Factor",
+      "value": 1,
+      "unit": ""
+    },
+    {
+      "name": "PWR 01 Active Power",
+      "value": 24256,
+      "unit": "kW"
+    },
+    {
+      "name": "PWR 01 Reactive Power",
+      "value": 30954,
+      "unit": ""
+    },
+    {
+      "name": "PWR 01 Apparent Power",
+      "value": 40960,
+      "unit": ""
+    },
+    {
+      "name": "PWR 01 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "PWR 02 RY Phase Voltage",
+      "value": 32566,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 02 YB Phase Voltage",
+      "value": 32170,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 02 BR Phase Voltage",
+      "value": 32000,
+      "unit": "V"
+    },
+    {
+      "name": "PWR 02 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 02 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 02 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "PWR 02 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "PWR 02 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "PWR 02 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "PWR 02 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "PWR 02 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "HT Incomer 1 RY Phase Voltage",
+      "value": 7086,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 1 YB Phase Voltage",
+      "value": 6948,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 1 BR Phase Voltage",
+      "value": 7072,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 1 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 1 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 1 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 1 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 1 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "HT Incomer 1 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 1 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 1 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "LT Incomer 01 RY Phase Voltage",
+      "value": 407,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 01 YB Phase Voltage",
+      "value": 413,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 01 BR Phase Voltage",
+      "value": 412,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 01 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 01 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 01 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 01 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 01 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "LT Incomer 01 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 01 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 01 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "LT Incomer 02 RY Phase Voltage",
+      "value": 406,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 02 YB Phase Voltage",
+      "value": 412,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 02 BR Phase Voltage",
+      "value": 412,
+      "unit": "V"
+    },
+    {
+      "name": "LT Incomer 02 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 02 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 02 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "LT Incomer 02 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 02 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "LT Incomer 02 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 02 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "LT Incomer 02 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal RY Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal YB Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal BR Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "HT Incomer 01 Soft Signal Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "Capacitor 01 RY Phase Voltage",
+      "value": 7008,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 01 YB Phase Voltage",
+      "value": 6948,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 01 BR Phase Voltage",
+      "value": 7008,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 01 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 01 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 01 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 01 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Capacitor 01 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "Capacitor 01 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Capacitor 01 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Capacitor 01 Total Energy",
+      "value": 0,
+      "unit": "kWh"
+    },
+    {
+      "name": "Capacitor 02 RY Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 02 YB Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 02 BR Phase Voltage",
+      "value": 0,
+      "unit": "V"
+    },
+    {
+      "name": "Capacitor 02 R Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 02 Y Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 02 B Phase Current",
+      "value": 0,
+      "unit": "A"
+    },
+    {
+      "name": "Capacitor 02 Power Factor",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Capacitor 02 Active Power",
+      "value": 0,
+      "unit": "kW"
+    },
+    {
+      "name": "Capacitor 02 Reactive Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Capacitor 02 Apparent Power",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "name": "Motor 1 Running Status",
+      "value": "RUNNING",
+      "unit": ""
+    },
+    {
+      "name": "Motor 2 Running Status",
+      "value": "RUNNING",
+      "unit": ""
+    },
+    {
+      "name": "Motor 3 Running Status",
+      "value": "STOPPED",
+      "unit": ""
+    },
+    {
+      "name": "Motor 4 Running Status",
+      "value": "RUNNING",
+      "unit": ""
+    },
+    {
+      "name": "Flow Totalizer",
+      "value": 3934.731,
+      "unit": "m³"
+    },
+    {
+      "name": "Flow Totalizer",
+      "value": 3934731.09,
+      "unit": "L"
+    }
+  ]
+}

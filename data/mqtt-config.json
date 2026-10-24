@@ -1,0 +1,9 @@
+{
+  "host": "103.174.130.172",
+  "port": 1883,
+  "username": "admin",
+  "password": "",
+  "topic": "test_plc",
+  "clientId": "lcepl_webscada_cloud",
+  "enabled": false
+}
